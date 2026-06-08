@@ -1,0 +1,11 @@
+Wrong: I am work in IT.
+Correct: I work in IT.
+
+Wrong: She go to work.
+Correct: She goes to work.
+
+Wrong: I have 30 years.
+Correct: I am 30 years old.
+
+Wrong: I want improve my English.
+Correct: I want to improve my English.

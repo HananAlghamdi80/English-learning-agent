@@ -1,0 +1,6 @@
+A1 Beginner: Can use simple phrases and introduce themselves.
+A2 Elementary: Can communicate in simple routine tasks.
+B1 Intermediate: Can handle familiar work and study situations.
+B2 Upper Intermediate: Can communicate clearly in professional contexts.
+C1 Advanced: Can express ideas fluently and flexibly.
+C2 Proficient: Can understand and communicate almost like a native speaker.

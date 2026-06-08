@@ -1,0 +1,5 @@
+.env
+learner_data.db
+__pycache__/
+.venv/
+.vscode/
