@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: english-learning-agent
+
+spec:
+  replicas: 6
+
+  selector:
+    matchLabels:
+      app: english-learning-agent
+
+  template:
+    metadata:
+      labels:
+        app: english-learning-agent
+
+    spec:
+      containers:
+      - name: english-learning-agent
+        image: english-learning-agent:latest
+        imagePullPolicy: Never
+
+        ports:
+        - containerPort: 8501
